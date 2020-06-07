@@ -1,3 +1,5 @@
+<img src="chibita-top.png" width="320">
+
 # About
 Aim to be a programmer in logistics area
 
